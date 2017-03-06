@@ -33,10 +33,13 @@ color: black;
 
 table a:hover{
   background-color: black;
-  margin-top:auto;
-  margin-left:auto;
+
 }
 
+Table {
+margin-top: 20px;
+margin-left:15px;
+}
 
 .title-bar {
   background-color: #222;
