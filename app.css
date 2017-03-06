@@ -1,0 +1,203 @@
+/* *************************************************************
+GENERAL
+************************************************************* */
+
+* {
+  outline: none;
+}
+
+.wrap {
+  width: 90%;
+  max-width: 1100px;
+  margin: 0px auto;
+}
+
+.nav {
+  width: 95%;
+}
+
+body, h1, h3{
+  font-family: 'Raleway', sans-serif;
+}
+
+/* *************************************************************
+NAV - MOBILE
+************************************************************* */
+
+table a{
+  display: block;
+font-family: 'Raleway', sans-serif;
+text-decoration: none;
+color: black;
+}
+
+table a:hover{
+  background-color: black;
+}
+
+
+.title-bar {
+  background-color: #222;
+  height: 60px;
+  padding-top: 17px
+}
+
+#mobile-menu {
+  background-color: #222;
+  padding: 10px;
+}
+
+#mobile-menu li {
+  list-style: none;
+}
+
+#mobile-menu a {
+  color: rgba(255, 255, 255, 0.6);
+  font-weight: bold;
+  line-height: 2;
+}
+
+#mobile-menu a hover {
+  color: rgba(255, 255, 255, 0.8);
+}
+
+/* *************************************************************
+NAV - DESKTOP
+************************************************************* */
+.nav-desktop {
+  height: 60px;
+  padding: 10px 0px 0px 0px;
+  background-color: white;
+  font-family: 'Josefin Sans', sans-serif;
+  text-align: center;
+}
+
+.top-bar-left > h3 > a{
+  font-family: 'Josefin Sans', sans-serif;
+  color: black;
+  padding: 30px 0px 0px 30px;
+}
+
+.top-bar-right {
+  padding-top: 12px;
+}
+
+.menu> li > a{
+  display: inline;
+  background-color: white;
+  color: black;
+  font-size: 22px;
+  top: 10px;
+}
+
+.main-nav{
+
+}
+
+/* *************************************************************
+HERO
+************************************************************* */
+
+.hero {
+  height: 200vh;
+  padding: 80px 0px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: rgba(0,0,0,0.9);
+  background-color: #D5D5D5;
+}
+
+.hero h1{
+  text-align: center;
+  font-family: 'Josefin Sans', sans-serif;
+  letter-spacing: 2px;
+  font-size: 60px;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.hero p{
+  letter-spacing: 1px;
+  font-size: 22px;
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+.hero hr {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.section-head {
+  background-color: #6D7993;
+  width: 40%;
+  padding: 15px;
+  justify-content: center;
+  display: block;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* *************************************************************
+MAIN SECTION
+************************************************************* */
+
+.main {
+  padding: 80px 0px;
+}
+
+.about-me {
+  color: rgba(0, 0, 0, .9);
+  margin-top: 80px;
+  text-align: center;
+  font-size: 16px;
+  letter-spacing: 1px;
+  line-height: 2em;
+}
+
+/* *************************************************************
+FOOTER
+************************************************************* */
+
+footer {
+  padding: 50px 0px 30px 0px;
+  background-color: #96858F;
+}
+
+footer h4 {
+  color: rgba(255, 255, 255, 0.3);
+  font-size: 1.3em;
+}
+
+footer hr {
+  border-color: rgba(255, 255, 255, 0.1);
+  margin: 10px 0px;
+}
+
+footer a {
+  display: block;
+  color: rgba (255, 255, 255, 0.6);
+  font-size: 0.8em;
+}
+
+footer a span {
+  font-weight: bold;
+  color: rgba (255, 255, 255, 0.3);
+}
+
+footer a:hover {
+  color: rgba (255, 255, 255, 0.8);
+}
+
+/* *************************************************************
+MEDIA QUERY
+************************************************************* */
+
+@media (max-width: 639px) {
+  .nav-desktop {
+    display: none;
+  }
+}
+
+@@media (max-width: 875px){
+  .hero h1,
+  .hero p {
+    width: 100%;
+  }
+}
