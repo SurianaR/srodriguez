@@ -36,11 +36,6 @@ table a:hover{
 
 }
 
-table {
-margin-top: 20px;
-margin-left:15px;
-}
-
 .title-bar {
   background-color: #222;
   height: 60px;
@@ -82,12 +77,12 @@ NAV - DESKTOP
   font-family: 'Josefin Sans', sans-serif;
   color: black;
   padding: 30px 0px 0px 30px;
-  position: fixed;
+
 }
 
 .top-bar-right {
   padding-top: 12px;
-  position: fixed;
+ 
 }
 
 .menu> li > a{
