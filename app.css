@@ -64,7 +64,7 @@ table a:hover{
 /* *************************************************************
 NAV - DESKTOP
 ************************************************************* */
-.nav-desktop {
+.top-bar.nav-desktop {
   height: 60px;
   padding: 10px 0px 0px 0px;
   background-color: white;
