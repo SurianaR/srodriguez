@@ -70,16 +70,19 @@ NAV - DESKTOP
   background-color: white;
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
+  position: fixed;
 }
 
 .top-bar-left > h3 > a{
   font-family: 'Josefin Sans', sans-serif;
   color: black;
   padding: 30px 0px 0px 30px;
+  position: fixed;
 }
 
 .top-bar-right {
   padding-top: 12px;
+  position: fixed;
 }
 
 .menu> li > a{
