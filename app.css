@@ -70,7 +70,7 @@ NAV - DESKTOP
   background-color: white;
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
-  position: fixed;
+  position: relative;
 }
 
 .top-bar-left > h3 > a{
