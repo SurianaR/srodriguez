@@ -30,7 +30,7 @@ table a{
 font-family: 'Raleway', sans-serif;
 text-decoration: none;
 color: black;
-padding-left:20px;
+padding-left:40px;
  
 }
 
@@ -213,7 +213,7 @@ MEDIA QUERY
   }
 }
 
-@@media (max-width: 875px){
+@media (max-width: 875px){
   .hero h1,
   .hero p {
     width: 100%;
