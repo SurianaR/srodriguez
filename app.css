@@ -19,7 +19,7 @@ GENERAL
 body, h1, h3{
   font-family: 'Raleway', sans-serif;
 }
-body{
+.body{
 background-color:#96858F;
 }
 /* *************************************************************
