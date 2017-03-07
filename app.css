@@ -23,7 +23,9 @@ body, h1, h3{
 /* *************************************************************
 NAV - MOBILE
 ************************************************************* */
-
+table{
+width:100%;
+}
 table a{
   display: block;
 font-family: 'Raleway', sans-serif;
@@ -36,7 +38,7 @@ table a:hover{
 
 }
 .hvr-grow {
-  display: auto;
+  display: inline-block;
   vertical-align: middle;
   -webkit-transform: perspective(1px) translateZ(0);
   transform: perspective(1px) translateZ(0);
