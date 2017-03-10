@@ -1,1 +1,112 @@
+<!doctype html>
+<html class="no-js" lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suriana Rodriguez Portfolio</title>
+    <link href="https://fonts.googleapis.com/css?family=Josefin+Sans:300,400,700" rel="stylesheet">
+   <link href="https://fonts.googleapis.com/css?family=Rochester" rel="stylesheet">
+    <link rel="stylesheet" href="foundation.css">
+    <link rel="stylesheet" href="app.css">
+      
+  </head>
+  <body>
+    <!---_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+                                      Header
+    -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-->
+
+    <nav class="top-bar nav-desktop">
+    <div class="top-bar-left">
+        <h3 class="name"> <a  href="index.html">Suriana Rodriguez</a>  </h3>
+    </div>
+    <div class="top-bar-right">
+     
+      <ul class="menu menu-desktop dropdown-menu">
+          <li class="hvr-grow"><a href="Aboutme.html">About Me</a></li>
+          <li class="hvr-grow"><a href="Extra.html">Extra </a></li>
+          <li class="hvr-grow"><a href="education.html">Education</a></li>
+          <li class="hvr-grow"><a href="skills.html">Skills</a></li>
+          <li class="hvr-grow" ><a href="Resume.html">Resume</a></li>
+          <li class="hvr-grow"><a href="Contactme.html">Contact Me</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <!---_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+                                    Hero
+  -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-->
+
+<section class="hero">
+    <div class="wrap">
+
+        <div class="wrap row">
+            <h1 class="section-head">Extra Curricular</h1>
+            <hr>
+          <h3>Newburgh Armory Unity Center</h3>
+          <p>I am a facilitator at the Computer Science Program hosted at Newburgh 
+          Armory Unity Center, a recreational center where people of all ages, races and 
+          religions are welcome to participate in civic unity. I teach structural programing 
+          to the young, underserved students of Newburgh. There are a selected number of kids who 
+          are accepted into the program, typically second to eighth graders. This experience has allowed 
+          not only the youth of Newburgh to improve their critical thinking and problem solving skills, 
+          but also me. This program has opened up my eyes to recognize the positive impact that I can create 
+          in my community.    
+</p>
+       
+      </div>
+   </div>
+ </section>
+
+
+<!---_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+                                  Main Section
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-->
+
+
+
+
+  <!---_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-
+                                    Footer
+  -_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-->
+
+ <footer>
+   <div class="wrap row small-up-1 medium-up-3">
+     <div class="column">
+     
+       <!-- Footer
+        <h1>Contact Info</h1>
+        <hr>
+        <a href="#"><span>Phone</span> 845 905 2892 </a>
+        <a href="#"><span>Email</span> srodriguez.ptech@gmail.com </a>
+        <a href="#"><span>Address</span>Newburgh NY 12550</a>
+     </div>
+     <div class="column">
+       <h1>Site Map</h1>
+       <hr>
+       <a href="#"> About Us </a>
+       <a href="#"> Services </a>
+       <a href="#"> Contact Us </a>
+     </div>
+     <div class="column">
+       <h1>References</h1>
+       <hr>
+       <a href="#"> Resume </a>
+       <a href="#"> Work Experience </a>
+       <a href="#"> bla bla bla </a>
+     </div>
+   -->
+</div>
+</footer >
+
+
+
+
+<!-- ********************************************************************* -->
+    <script src="jquery.js"></script>
+    <script src="what-input.js"></script>
+    <script src="foundation.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
 
