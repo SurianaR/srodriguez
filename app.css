@@ -26,6 +26,9 @@ background-color:#96858F;
  font-family: 'Rochester', cursive;
  color:black;
 }
+ul, li{
+font-family: 'Josefin Sans', sans-serif;
+}
 /* *************************************************************
 NAV - MOBILE
 ************************************************************* */
