@@ -1397,7 +1397,9 @@ dl {
   line-height: 1.6; }
 
 li {
-  font-size: inherit; }
+  font-size: inherit; 
+  font-size: 25px;
+}
 
 ul {
   margin-left: 1.25rem;
