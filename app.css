@@ -22,7 +22,7 @@ body, h1, h3{
 .body{
 background-color:#96858F;
 }
-.name{
+.top-bar-left > h3 > a.name{
  font-family: 'Rochester', cursive;
  color:black;
 }
