@@ -99,8 +99,8 @@ table a:hover{
 NAV - DESKTOP
 ************************************************************* */
 .top-bar.nav-desktop {
-  height: 60px;
-  padding: 10px 0px 0px 0px;
+  /*height: 60px;*/
+  /*padding: 10px 0px 0px 0px;*/
   background-color: white;
   font-family: 'Josefin Sans', sans-serif;
   text-align: center;
